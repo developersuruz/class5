@@ -1,0 +1,81 @@
+
+/*Table Css*/
+.rutine{
+    color: #68217a;
+    font-size: 30px;
+}
+th{
+    text-align: center;
+    background-color: #ffff00;
+    font-size: 17px;
+    padding: 10px 10px;
+}
+td{
+    text-align: center;
+    font-size: 17px;
+    padding: 2px 2px;
+
+}
+.sir{
+    background-color: #ffcccc;
+}
+.sat{
+    background-color:#f6b93b;
+}
+.sun{
+    background-color:#ff3f34;
+}
+.mon{
+    background-color:#0fbcf9;
+}
+.tue{
+    background-color: #78e08f;
+}
+.wed{
+    background-color: #d980fa;
+}
+.thu{
+    background-color: #d1d8e0;
+}
+.cou101{
+    background-color: #ee82ee;
+}
+.cou102{
+    background-color: #8e4abe;
+}
+.cou103{
+    background-color: #2222fd;
+}
+.cou104{
+    background-color: #008000;
+}
+.cou105{
+    background-color: #ffff00;
+}
+.cou106{
+    background-color: #ffa500;
+}
+.cla8{
+    background-color: #ff6b81;
+}
+.cla10{
+    background-color: #2ed573;
+}
+.room{
+    background-color: #c4e538;
+}
+p{
+    text-align: center;
+    background-color:#d2d2d2;
+    color: #3a08c3;
+    font-size: 23px;
+}
+h4{
+    color: #f40e0e;
+}
+.footer{
+    background-color: #45d76a;
+    font-size: 60px;
+    text-align: center;
+    color: #fafffa;
+}
